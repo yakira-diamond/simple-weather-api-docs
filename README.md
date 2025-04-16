@@ -36,4 +36,13 @@ GET /api/weather?city=Lagos
 - Swagger/OpenAPI format (if applicable)
 - Deployed using GitHub Pages or local preview tools
 
-- 
+##  How to Use
+- Clone the repo:
+
+  git clone https://github.com/yakiradiamond/simple-weather-api-docs.git
+
+
+
+
+
+
