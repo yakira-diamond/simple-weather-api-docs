@@ -31,7 +31,7 @@ GET /api/weather?city=Lagos
 }
 ```
 
-##Tech Stack
+## Tech Stack
 - Markdown for documentation
 - Swagger/OpenAPI format (if applicable)
 - Deployed using GitHub Pages or local preview tools
