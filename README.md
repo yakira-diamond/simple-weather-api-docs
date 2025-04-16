@@ -48,7 +48,7 @@ cd simple-weather-api-docs
 ```
 3. Open the documentation file (README.md) in your browser or documentation viewer.
 
-###Kira Twist
+### Kira Twist
 GitHub: @yakiradiamond
 
 ##Contributions
