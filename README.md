@@ -1,8 +1,8 @@
-# 🌦️ Simple Weather API Docs
+#  Simple Weather API Docs
 
 This project contains detailed documentation for a Simple Weather API that allows developers to fetch real-time weather information based on city or location input. It is designed to help developers understand how to use the API effectively, including endpoint structure, request parameters, and expected responses.
 
-## 📘 Overview
+##  Overview
 
 The Simple Weather API provides the following data:
 - Current weather conditions
@@ -11,9 +11,9 @@ The Simple Weather API provides the following data:
 - Wind speed
 - Weather descriptions (e.g., Cloudy, Sunny, Rainy)
 
-## 🧩 API Endpoints
+##  API Endpoints
 
-### 🔹 GET `/api/weather?city={city_name}`
+###  GET `/api/weather?city={city_name}`
 
 **Description:** Fetches current weather data for a given city.
 
