@@ -29,6 +29,7 @@ GET /api/weather?city=Lagos
   "description": "Sunny",
   "wind_speed": 12
 }
+```bash
 
 ##Tech Stack
 - Markdown for documentation
