@@ -51,7 +51,7 @@ cd simple-weather-api-docs
 ### Kira Twist
 GitHub: @yakiradiamond
 
-##Contributions
+## Contributions
 Contributions and improvements are welcome! If you spot an issue or want to enhance the docs, feel free to fork the repo and submit a pull request.
 
 
