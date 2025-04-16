@@ -35,3 +35,5 @@ GET /api/weather?city=Lagos
 - Markdown for documentation
 - Swagger/OpenAPI format (if applicable)
 - Deployed using GitHub Pages or local preview tools
+
+- 
