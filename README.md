@@ -29,3 +29,8 @@ GET /api/weather?city=Lagos
   "description": "Sunny",
   "wind_speed": 12
 }
+
+##Tech Stack
+- Markdown for documentation
+- Swagger/OpenAPI format (if applicable)
+- Deployed using GitHub Pages or local preview tools
