@@ -46,7 +46,13 @@ GET /api/weather?city=Lagos
 ```bash
 cd simple-weather-api-docs
 ```
-3. 
+3. Open the documentation file (README.md) in your browser or documentation viewer.
+
+###Kira Twist
+GitHub: @yakiradiamond
+
+##Contributions
+Contributions and improvements are welcome! If you spot an issue or want to enhance the docs, feel free to fork the repo and submit a pull request.
 
 
 
