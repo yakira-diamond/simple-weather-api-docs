@@ -37,12 +37,16 @@ GET /api/weather?city=Lagos
 - Deployed using GitHub Pages or local preview tools
 
 ##  How to Use
-- Clone the repo:
+1.  Clone the repo:
 
 ```bash
   git clone https://github.com/yakiradiamond/simple-weather-api-docs.git
 ```
-
+2. Navigate to the project folder:
+```bash
+cd simple-weather-api-docs
+```
+3. 
 
 
 
